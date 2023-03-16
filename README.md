@@ -1,1 +1,3 @@
-# basic_python_course
+@copy_right
+
+`참고자료: 채진석 저자 '파이썬을 이용한 데이터 분석의 정석' `
